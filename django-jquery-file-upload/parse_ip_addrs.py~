@@ -1,0 +1,16 @@
+import sys, string
+
+myfile = None
+try:
+	myfile = open('/home/alex/myipaddrs.txt','r')
+except Exception:
+	print "Uh Oh, Spaghettios! Can not open the file!"
+	raise
+
+for line in myfile.readlines():
+	words = string.split(line)
+	if len(words) >= 2:
+		print words[0]
+	else:
+		print "Invalid line detected. Only one word on this line!"
+myfile.close()
