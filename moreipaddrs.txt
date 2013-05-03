@@ -1,0 +1,7 @@
+216.239.51.99 http://www.google.com/
+153.104.63.227 http://www.purple.com/
+212.58.251.195 http://www.bbc.com/
+80.242.133.1 http://www.germany.travel/
+125.60.3.200 http://www.korea.net/
+210.80.152.10 http://www.australia.com/
+166.108.31.147 http://www.alaska.com/

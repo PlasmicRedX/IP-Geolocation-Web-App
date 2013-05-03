@@ -1,0 +1,5 @@
+74.125.225.238 http://www.google.com/
+140.211.11.131  http://www.apache.org/
+67.215.92.210  http://www.opendns.org/
+208.109.4.201  http://www.godaddy.com/
+173.192.226.44  http://www.hostgator.com/
