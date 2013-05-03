@@ -144,7 +144,7 @@ class PictureDeleteView(DeleteView):
     <div id="map-canvas"/>
   </body>
 </html>
-'''.format('<h1>IP Geolocation Map</h1>', location, ipAddrs, '<a href=127.0.0.1:8000/upload/new/>Go Back Home</a>'))
+'''.format('<h1>IP Geolocation Map</h1>', location, ipAddrs, '<a href=http://127.0.0.1:8000/upload/new/>Go Back Home</a>'))
 	#self.object.delete()
 	#if request.is_ajax():
 		#response = JSONResponse(True, {}, response_mimetype(self.request))
